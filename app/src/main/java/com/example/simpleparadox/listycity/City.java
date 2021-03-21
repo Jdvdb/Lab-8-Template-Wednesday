@@ -1,5 +1,7 @@
 package com.example.simpleparadox.listycity;
 
+
+// comment for another commit
 public class City implements Comparable<City>{
     private String city;
     private String province;
